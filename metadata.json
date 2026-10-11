@@ -1,0 +1,6 @@
+{
+  "name": "RC CAR SHOWCASE",
+  "description": "Explore high-performance RC machines in an immersive futuristic digital showroom with interactive 3D platform, real-time specifications, and parts breakdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
